@@ -19,7 +19,7 @@ Project was created with:
  
 ### First step
 
-You can add credits by pressing the button. Then just press the New card button to get a new Bingo Card and then press Start to play the game. Every rounds you need at least 1 credit.
+Press the New card button to get a new Bingo Card and then press Start to play the game. Every rounds you need at least 1 credit.
 <br />
 <br />
 <br />
