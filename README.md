@@ -10,3 +10,5 @@ This project is a simple Bingo game.
 ## Technologies
 Project was created with:
 * Unity 2021.1.7f1
+
+Pedro Barros
