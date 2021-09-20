@@ -11,9 +11,7 @@ This project is a simple Bingo game.
 Project was created with:
 * Unity 2021.1.7f1
 
-CHARON/tree/main/CHARON/Assets/prints
 
-![Gameplay](CHARON/Assets/prints/print.png)
-
+![Gameplay](CHARON/CHARON/Assets/prints/print.png)
 
 Pedro Barros
